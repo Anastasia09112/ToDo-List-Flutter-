@@ -1,0 +1,6 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="true" type="FlutterRunConfigurationType" factoryName="Flutter" editBeforeRun="true">
+    <option name="filePath" value="$PROJECT_DIR$/fluttertodo-master/lib/main.dart" />
+    <method v="2" />
+  </configuration>
+</component>

@@ -12,10 +12,11 @@ class _MyAppState extends State<MyApp> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: "TODO",
+      title: "TODO LIST",
       debugShowCheckedModeBanner: false,
       theme: ThemeData.dark().copyWith(
-        colorScheme: ColorScheme.fromSwatch().copyWith(secondary: Colors.purple),
+        colorScheme:
+            ColorScheme.fromSwatch().copyWith(secondary: Colors.purple),
       ),
       home: todoui(),
     );
